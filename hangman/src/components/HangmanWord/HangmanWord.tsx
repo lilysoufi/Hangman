@@ -6,7 +6,7 @@ interface HangmanWordprops {
 
 const HangmanWord = ({reveal ,wordToGuess , guessedLetters} : HangmanWordprops) => {
 
-    const word : string = "test"
+  
     
   return (
     <div style={{
